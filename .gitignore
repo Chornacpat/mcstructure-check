@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+report.json
+*.mcstructure
+!/examples/clean.mcstructure
+!/examples/findings.mcstructure
+!/examples/compressed-findings.mcstructure
